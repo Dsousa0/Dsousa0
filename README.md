@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Olá! Eu sou o Daniel de Sousa Barbosa
 
-<!--
-**Dsousa0/Dsousa0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Apaixonado por tecnologia, programação e análise de dados. Busco sempre aprender e aplicar soluções que gerem valor real.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Habilidades
+
+- Java, Python, C, React, Django, TypeScript, HTML, CSS, JavaScript
+- PostgreSQL, MySQL, Oracle
+- Power BI, Crystal Reports
+- APIs (incluindo de IA), Excel avançado, manutenção de hardware/software
+
+---
+
+## 📚 Certificações
+
+- Power BI, HTML/CSS/JS, POO, OCR com Python, Visão Computacional, LGPD, SharePoint (2024)
+
+---
+
+## 🌎 Idiomas
+
+- Inglês (Intermediário), Espanhol (Básico)
+
+---
+
+📫 **Contato:** [danieltim.ds@gmail.com](mailto:danieltim.ds@gmail.com)
+
+
