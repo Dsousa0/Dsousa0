@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou o Daniel de Sousa Barbosa
+#  Olá! Eu sou o Daniel de Sousa Barbosa
 
 🎯 Apaixonado por tecnologia, programação e análise de dados. Busco sempre aprender e aplicar soluções que gerem valor real.
 
