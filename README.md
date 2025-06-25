@@ -21,7 +21,8 @@
 
 ## 🌎 Idiomas
 
-- Inglês (Intermediário), Espanhol (Básico)
+- Inglês (Intermediário)
+- Espanhol (Básico)
 
 ---
 
